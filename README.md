@@ -5,8 +5,7 @@
    > 这个是幻灯片的组件
    >支持：响应式，支持多种动效，指定轮播，
 ## demo 展示
-	<a href="https://7fe.github.io/stark_slider/slider"> demo地址</a>
-
+	[demo地址](https://7fe.github.io/stark_slider/slider/)
 ##　使用方式
 ```
 /*引入样式*/
